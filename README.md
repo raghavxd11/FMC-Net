@@ -3,7 +3,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg?logo=pytorch)](https://pytorch.org/)
 [![Google Colab](https://img.shields.io/badge/Colab-Ready-orange.svg?logo=googlecolab)](https://colab.research.google.com/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kvasir%20v1-blue.svg)](https://datasets.simula.no/kvasir/)
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)]()
 
 A paper-inspired, end-to-end PyTorch prototype of **FMC-Net** tailored for automated gastrointestinal tract disease classification on the **Kvasir v1** dataset (8 classes, 4,000 endoscopic images).
 
